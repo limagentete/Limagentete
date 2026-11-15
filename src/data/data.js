@@ -715,7 +715,7 @@ export const siteData = {
         contenu: [
           "Raison sociale : L'Image en Tête",
           "Activité : Coaching scolaire et accompagnement dans les apprentissages",
-          "Adresse : Richebourg, France",
+          "Adresse : Vieille-Chapelle, France",
           "Téléphone : 07.81.17.23.25",
           "Email : limagentete@gmail.com",
           "Directeur de la publication : Mathilde, responsable de la publication",
