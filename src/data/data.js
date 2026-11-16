@@ -275,8 +275,8 @@ export const siteData = {
       ]
     },
     premiereRencontre: {
-      titre: "Première rencontre gratuite",
-      description: "Sur demande, je propose une première rencontre gratuite pour faire connaissance et évaluer vos besoins."
+      titre: "Premier appel avant tout rendez-vous",
+      description: "Avant tout rendez vous, je propose un premier appel gratuit de 30 minutespour faire connaissance et évaluer vos besoins."
     }
   },
 
@@ -314,8 +314,8 @@ export const siteData = {
         "Améliorer la prise de notes et la gestion du temps"
       ],
       format: "Séances de 1h à 1h30 - pack de 5 séances",
-      tarif: "70 € / 55 € à domicile (CESU possible)",
-      ton: "rassurant et motivant",
+      tarif: "70 € la première séance puis 55 € par séance à domicile ",
+      ton: "Apprendre autrement, avec plaisir !",
       modalites: ["Individuel", "À domicile"]
     },
     {
@@ -357,13 +357,13 @@ export const siteData = {
       titre: "Soin Reiki",
       pourQui: "Tout public",
       objectifs: [
-        "Apaiser le stress et l'anxiété",
-        "Retrouver clarté et équilibre intérieur",
-        "Proposer un temps de calme et de recentrage"
+        "Réduire le stress et apaiser le mental",
+        "Retrouver une clarté mentale et émotionnelle",
+        "Proposer un temps pour soi de détente et de relaxation"
       ],
-      format: "Séance devant le corps, dos ou à distance",
-      tarif: "60 €",
-      ton: "apaisant et bienveillant"
+      format: "Soin reiki sur la globalité du corps",
+      tarif: "55 €",
+      ton: "Je vous propose simplement un moment rien qu'à vous, dans un cadre doux, bienveillant et sans jugement. "
     },
     {
       id: "atelier-6-bricks",
@@ -591,7 +591,7 @@ export const siteData = {
       intro: {
         titre: "Le Reiki, une approche douce et globale",
         paragraphes: [
-          "Le Reiki est une pratique d'origine japonaise basée sur l'apposition des mains. Elle est proposée ici comme un temps de calme, de recentrage et de détente, en complément du coaching scolaire.",
+          "Le Reiki est une pratique d'origine japonaise basée sur l'apposition des mains. Elle est proposée ici comme un temps de calme et de détente, en complément du coaching scolaire.",
           "Ce n'est ni un diagnostic ni un soin médical. Elle ne se substitue pas à un suivi de santé.",
           "Offrez-vous un moment dans l'instant présent, pour retrouver du calme et une clarté intérieure."
         ]
@@ -601,14 +601,14 @@ export const siteData = {
         intro: "Associé au coaching scolaire, le Reiki devient un véritable soutien pour l'équilibre intérieur.",
         points: [
           "Cette combinaison permet à l'élève de mettre en œuvre plus facilement les stratégies travaillées ensemble.",
-          "Il soutient l'élève de façon subtile, en l'aidant à se recentrer et à se reconnecter à ses propres ressources.",
-          "Grâce à cette approche, l'élève peut être plus présent dans ses études.",
-          "Il aborde les défis scolaires avec plus de recul et de sérénité."
+          "Il soutient l'élève de façon subtile, en l'aidant à dissiper les tensions et à se reconnecter à ses propres ressources.",
+          "Grâce à cette approche, l'élève peut être plus présent dans ses études et aborder les défis scolaires avec plus de recul et de sérénité.",
+          "Le reiki ne s'adresse pas uniquement aux enfants. En tant que parent, pour pouvoir être présent auprès de son enfant, il est essentiel de prendre soin de soi. En vous accordant ce temps, vous vous offrez la possibilité de retrouver davantage de disponibilité et de sérénité dans votre quotidien."
         ]
       },
       approche: {
         titre: "Mon approche",
-        texte: "Je suis praticienne Reiki, initiée au second degré, et j'accompagne les élèves (et leurs parents) à retrouver équilibre, confiance et bien-être pour avancer plus sereinement dans leur parcours scolaire et personnel."
+        texte: "Je suis praticienne Reiki Usui, initiée au second degré, et j'accompagne les élèves (et leurs parents) à retrouver la quiétude mentale, confiance et un mieux-être pour avancer plus sereinement dans leur parcours scolaire et personnel."
       }
     }
   },
